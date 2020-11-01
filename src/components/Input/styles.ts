@@ -13,6 +13,7 @@ export const Container = styled.div`
 
   & + div {
     margin-right: 8px;
+    margin-top: 8px;
   }
 
   input {
